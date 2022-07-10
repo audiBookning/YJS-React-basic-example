@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+textarea {
+  min-height: 50vh;
+  min-width: 90vw;
+}
